@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Danial Khurram</h1>
 <h3 align="center">A passionate Data Scientist and AI Engineer from Pakistan.</h3>
 
-- 🔭 I’m currently Working on and Learning **AI/DataScience/Machine Learning/Deep Learning**
+- 🔭 I’m currently Working on and Learning **DataScience/Machine Learning/Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daniyal247](https://github.com/Daniyal247)
 
