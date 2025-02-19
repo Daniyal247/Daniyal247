@@ -21,4 +21,4 @@
 
 
 <h3 align="left">Badges:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cb453a5e-5287-48f2-b840-836c6d27e9a0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[View my certifications on Credly](https://www.credly.com/users/syed-danial-khurram)
