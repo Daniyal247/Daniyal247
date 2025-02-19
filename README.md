@@ -22,3 +22,53 @@
 
 <h3 align="left">Badges:</h3>
 [View my certifications on Credly](https://www.credly.com/users/syed-danial-khurram)
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Daniyal247&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal247&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
+
+<h3 align="left">GitHub Streak:</h3>
+<p align="left">
+    <img src="https://streak-stats.demolab.com/?user=Daniyal247&theme=dark" alt="GitHub Streak" />
+</p>
+
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=Daniyal247&theme=darkhub" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a> 
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+    </a>
+</p>
