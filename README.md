@@ -27,6 +27,9 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Daniyal247&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniyal247&theme=react-dark" alt="Contribution Graph" />
+</p>
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
