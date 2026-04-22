@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on and learning **Data Science / Machine Learning / Deep Learning**
 
 - 👨‍💻 All of my projects are available at  
-  👉 https://github.com/Daniyal247
+  👉 https://github.com/Daniyal247 
 
-- 📝 I regularly read articles on  
-  👉 [AI Development in the current world](https://your-link-here.com)
+- 📝 I regularly write articles/blogs on my website 
+  👉 [AI Development in the current world](https://www.danialk.dev/blogs)
 
 - 💬 Ask me about **AI, Deep Learning**
 
