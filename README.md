@@ -51,9 +51,13 @@
 
 ---
 
-<h3 align="left">Most Used Languages:</h3>
+<!-- <h3 align="left">Most Used Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal247&layout=compact&theme=dark" />
+</p> -->
+<h3 align="left">Most Used Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal247&layout=compact&theme=dark&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 ---
